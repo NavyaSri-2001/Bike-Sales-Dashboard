@@ -1,11 +1,11 @@
 # Bike-Sales-Dashboard
-Overview
-The purpose of this repository is to look at what factors may go in to determining whether or not a customer opts to purchase a bike. The dashboard displayed below is interactive upon downloading the Bike Buyers Data Excel Sheet in the main branch.
+#Overview
+#The purpose of this repository is to look at what factors may go in to determining whether or not a customer opts to purchase a bike. The dashboard displayed below is interactive upon downloading the Bike Buyers Data Excel Sheet in the main branch.
  
 
-Data Preprocessing
-⦁	Duplicate rows were removed
-⦁	Column values were adjusted for the visualizations
+#Data Preprocessing
+#⦁	Duplicate rows were removed
+#⦁	Column values were adjusted for the visualizations
 ⦁	Marital Status: M/S --> Married/Single
 ⦁	Gender: M/F --> Male/Female
 ⦁	Income decimals removed for a more polished looking income number
